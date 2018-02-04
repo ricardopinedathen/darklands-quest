@@ -1,0 +1,65 @@
+000: 041, - 095, 000, 008, 000, 000, 000, 000, 000, 003, 000, 012, 000, 002, 000, 000, 000, 
+006 QRV   //RobberKnight medici
+
+
+000: 010, - 095, 000, 008, 000, 000, 000, 000, 000, 010, 000, 015, 000, 002, 000, 138, 000, 
+006 QRV   //RobberKnight return to fugger
+
+000: 016, - 095, 000, 008, 000, 000, 000, 000, 000, 003, 000, 000, 000, 000, 000, 000, 000, 
+006 QRV   //RobberKnight return to medicci
+
+000: 010, - 095, 000, 008, 000, 000, 000, 000, 000, 010, 000, 012, 000, 002, 000, 138, 000, 
+007 QRV   //here its get debt note, from dont know who.  deliver to hanse
+  
+000: 010, - 095, 000, 008, 000, 000, 000, 000, 000, 010, 000, 015, 000, 002, 000, 138, 000, 
+006 QRV   //here its get debt note, from FUGGGER deliver to medici
+
+
+
+000: 009, - 095, 000, 008, 000, 000, 000, 000, 000, 010, 000, 016, 000, 002, 000, 137, 000,  
+008 QRV   //here was quest to get sworm statement from merchant
+
+000: 008, - 095, 000, 036, 000, 000, 000, 000, 000, 010, 000, 000, 000, 011, 000, 137, 000, 
+008 QRV  Source: 9  //now this is return sworn statement to fugger
+   
+ 
+ //new
+000: 041, 095, 000, 008, 000, 000, 000, 000, 000, 003, 000, 012, 000, 002, 000, 000, 000, 
+IsQuest=True Source=Leipzig City Source=Steigra RobberKnight medici   006
+
+000: 010, 095, 000, 008, 000, 000, 000, 000, 000, 010, 000, 012, 000, 002, 000, 138, 000, 
+IsQuest=True Source=Magdeburg City Source=Duisberg City      hanse    007
+
+000: 018, 095, 000, 008, 000, 000, 000, 000, 000, 003, 000, 012, 000, 002, 000, 000, 000, 
+IsQuest=True Source=Hamburg City Source=Gresse RobberKnight  fugger   006
+
+000: 008, 095, 000, 036, 000, 000, 000, 000, 000, 010, 000, 000, 000, 011, 000, 137, 000, 
+IsQuest=True Source=Leipzig City Source: 9                   fugger   006
+
+000: 010, 095, 000, 008, 000, 000, 000, 000, 000, 010, 000, 015, 000, 002, 000, 138, 000, 
+IsQuest=True Source=Luneberg City Source=Aachen City         medici   006
+
+000: 016, 095, 000, 008, 000, 000, 000, 000, 000, 003, 000, 000, 000, 000, 000, 000, 000, 
+IsQuest=True Source=Hamburg City Source=Gresse RobberKnight
+
+
+
+
+006: 041, 095, 000, 008, 000, 000, 000, 000, 000, 003, 000, 012, 000, 002, 000, 000, 000, 
+IsQuest=True Source=Leipzig City Source=Steigra RobberKnight  medici    
+
+007: 010, 095, 000, 008, 000, 000, 000, 000, 000, 010, 000, 012, 000, 002, 000, 138, 000, 
+IsQuest=True Source=Magdeburg City Source=Duisberg City       hanse     
+
+008: 018, 095, 000, 008, 000, 000, 000, 000, 000, 003, 000, 012, 000, 002, 000, 000, 000, 
+IsQuest=True Source=Hamburg City Source=Gresse RobberKnight   fugger   
+
+008: 008, 095, 000, 036, 000, 000, 000, 000, 000, 010, 000, 000, 000, 011, 000, 137, 000, 
+IsQuest=True Source=Leipzig City Source: 9                    fugger 
+
+006: 010, 095, 000, 008, 000, 000, 000, 000, 000, 010, 000, 015, 000, 002, 000, 138, 000, 
+IsQuest=True Source=Luneberg City Source=Aachen City          medici 
+
+006: 016, 095, 000, 008, 000, 000, 000, 000, 000, 003, 000, 000, 000, 000, 000, 000, 000, 
+IsQuest=True Source=Hamburg City Source=Gresse RobberKnight
+

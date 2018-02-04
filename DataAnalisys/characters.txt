@@ -1,0 +1,49 @@
+we same style this changes anyways
+
+Pos 1: 63 Val: 96, 138
+Pos 1: 69 Val: 156, 0
+Pos 1: 73 Val: 1, 8
+Pos 1: 89 Val: 110, 154
+Pos 1: 91 Val: 80, 137
+Pos 1: 92 Val: 40, 17
+Pos 1: 132 Val: 1, 2
+ 
+//24 bytes for each char for colors
+
+of char 2
+
+//color 1
+Pos 1: 297 Val: 57, 0
+Pos 1: 298 Val: 54, 0
+Pos 1: 300 Val: 61, 0
+Pos 1: 301 Val: 56, 0
+Pos 1: 302 Val: 21, 0
+ 
+//color 2  
+Pos 1: 303 Val: 0, 53
+Pos 1: 304 Val: 24, 53
+Pos 1: 305 Val: 40, 11
+Pos 1: 306 Val: 0, 47
+Pos 1: 307 Val: 17, 47
+Pos 1: 308 Val: 37, 8
+Pos 1: 309 Val: 0, 57
+Pos 1: 310 Val: 21, 46
+Pos 1: 311 Val: 37, 9
+
+//color 3  
+Pos 1: 312 Val: 28, 43
+Pos 1: 313 Val: 0, 42
+Pos 1: 314 Val: 0, 28
+Pos 1: 315 Val: 23, 35
+Pos 1: 316 Val: 0, 35
+Pos 1: 317 Val: 0, 18
+Pos 1: 318 Val: 17, 40
+Pos 1: 319 Val: 0, 37
+Pos 1: 320 Val: 0, 19
+
+//color 1 char 3 
+Pos 1: 321 Val: 57, 0
+Pos 1: 322 Val: 54, 0
+Pos 1: 324 Val: 61, 0
+Pos 1: 325 Val: 56, 0
+Pos 1: 326 Val: 21, 0 
