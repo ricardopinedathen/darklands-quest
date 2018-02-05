@@ -18,4 +18,10 @@ Developed by Alberto Pineda, maintained by Ricardo Pineda
 You can contact me at ricardopinedathen@gmail.com to become a contributor
 
 ### Status ###
-I will be working on creating a setup for this so that it can easily be installed
+I will be working on creating a setup for this so that it can easily be installed, but for now you can download it from here:
+
+https://darklands.blob.core.windows.net/downloads/DarkLandFiles.zip
+
+Just extract all files to a folder and run. Make sure you have the .NET Framework 3.5 installed.
+
+
