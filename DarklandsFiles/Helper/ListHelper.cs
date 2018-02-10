@@ -88,7 +88,7 @@ namespace DarklandsFiles
                         b != 28 &&
                         b != 13)
                     {
-                        throw new Exception("ahhhh");
+                        //throw new Exception("ahhhh");
                     }
                     str += c;
                 }
